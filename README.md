@@ -1,4 +1,4 @@
-This is a simple two player stategy game and my first time ever using C++.
+This is a simple two player stategy game that I designedand my first time ever using C++.
 
 ### Rules
 You have a set of game pieces on your side. Each turn you can only move each piece 2 grids. 
@@ -52,4 +52,6 @@ cmake -S . -B build -G "Visual Studio 16 2019"
 Build the proect by selecting Build > Build Solution (or press Ctrl + Shift + B).
 Run the project by selecting Debug > Start Without Debugging (or press Ctrl + F5).
 
+### Notes
+- This can be expanded by creating new game pieces with different "powers" and shapes. By adding more game pieces, we can expand on the the difficulty and strategy of the game.
 
